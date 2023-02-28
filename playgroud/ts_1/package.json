@@ -1,0 +1,13 @@
+{
+  "name": "ts_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "chengpeng <1978438017@qq.com> (http://github.com/codesmartBoy)",
+  "license": "ISC"
+}
